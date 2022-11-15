@@ -1,8 +1,7 @@
 /*
 	Name: Program menjumlahkan dua buah matriks
-	Copyright: Rosul Iman
 	Author: Rosul Iman
-	Date: 11/10/22 11.33
+	Date: 15/11/2022
 	Description: Array dua dimensi 
 */
 #include <stdio.h>
